@@ -6,6 +6,6 @@ repo_name: 'mypi-home/reuseacell'
 repo_url: 'https://github.com/mypi-home/reuseacell'
 nav:
     - Home: index.md
-    - Page1: page1.md
+    - Page1: Page1.md
 theme:
   name: 'material'
