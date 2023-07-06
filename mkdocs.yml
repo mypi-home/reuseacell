@@ -1,10 +1,11 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: REUSEACELL
+site_description: 'REUSEACELL - Reusing 2nd life EV Batteries for stationary storage (BESS)'
+site_author: 'Chris B'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'mypi-home/reuseacell'
+repo_url: 'https://github.com/mypi-home/reuseacell'
 nav:
     - Home: index.md
+    - Page1: page1.md
 theme:
   name: 'material'
