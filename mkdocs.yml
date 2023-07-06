@@ -7,5 +7,10 @@ repo_url: 'https://github.com/mypi-home/reuseacell'
 nav:
     - Home: index.md
     - Page1: Page1.md
+    - Approaches: Approaches.md 
+    - Safety: Safety.md
+    - Technical Solution: Technical_Solution.md
+    - Project Example: Project_Example.md
+    - How to Help: How_to_Help.md
 theme:
   name: 'material'
